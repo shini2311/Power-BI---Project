@@ -5,8 +5,7 @@
 <b>Tool Used: </b> Power BI
 
 <h2> 1. Project Objective</h2>
-
-    The goal of this project was to analyze the company’s HR recruitment process and provide insights that help improve hiring efficiency, recruiter performance, and candidate movement across different stages such as Submitted, Shortlisted, Interviewed, Selected, and Rejected.
+  The goal of this project was to analyze the company’s HR recruitment process and provide insights that help improve hiring efficiency, recruiter performance, and candidate movement across different stages such as Submitted, Shortlisted, Interviewed, Selected, and Rejected.
 
 <h2>2. Scope of Work</h2>
 
@@ -47,7 +46,7 @@ The analysis focused on:
 
  • Status Updated On
 
- •Current Application Status (Submited, Shortlisted, Interviewed, Selected, Rejected)
+ • Current Application Status (Submited, Shortlisted, Interviewed, Selected, Rejected)
 
 </ol>
 <b>Total records: </b>1030
@@ -66,8 +65,6 @@ The following steps were performed:
  </ol>
  <h2>5. Key Metrics Generated</h2>
  <ol>
-
-   5. Key Metrics Generated
 
  • Total Applicants
 
@@ -132,6 +129,7 @@ The following steps were performed:
 </ol>
 </ol>
 <h2>7. Dashboard Summary</h2>
+
 The interactive dashboard contains:
 <ol>
 
