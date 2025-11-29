@@ -97,6 +97,7 @@ The following steps were performed:
   1️⃣ <b>Hiring Funnel Performance</b>
 
 <ol>
+  
   • A significant drop occurs from Shortlisted → Interviewed, indicating lack of engagement or follow-up from some recruiters.
 
   • The overall selection rate remains moderate, suggesting a balanced but improvable talent quality.
@@ -105,6 +106,7 @@ The following steps were performed:
 2️⃣ <b>Recruiter Productivity</b>
 
 <ol>
+  
   • Some recruiters handle significantly more applications than others, showing workload imbalance.
 
   • Recruiters with higher touchpoints showed better conversion rates.
