@@ -7,23 +7,22 @@
 <h2> 1. Project Objective</h2>
   The goal of this project was to analyze the company’s HR recruitment process and provide insights that help improve hiring efficiency, recruiter performance, and candidate movement across different stages such as Submitted, Shortlisted, Interviewed, Selected, and Rejected.
 
-<h2>2. Scope of Work</h2>
-
-The analysis focused on:
+<h2>2. Key Ojectives</h2>
 
 <ol>
 
-    • Evaluating recruiter productivity
+    • Understand applicant flow from Submitted → Shortlisted → Interviewed → Selected → Rejected
+
+    • Evaluate recruiter-wise performance
+
+    • Analyze client hiring trends
+
+    • Identify delays in the hiring process
+
+    • Track time taken between each recruitment stage
+
+    • Provide an interactive Power BI dashboard for monitoring
     
-    • Understanding hiring trends
-
-    • Monitoring daily/weekly/monthly applicant flow
-
-    • Identifying bottlenecks in the hiring funnel
-
-    • Measuring time taken between application stages
-
-    • Creating a Power BI dashboard for easy monitoring
 </ol>
 
 <h2>3. Dataset Overview</h2>
@@ -53,44 +52,20 @@ The analysis focused on:
 
 <h2>4. Data Cleaning & Processing</h2>
 
-The following steps were performed:
 <ol> 
 
  • Removed duplicates
  
  • Standardized date formats
 
+ • Cleaning inconsistent status values
+
  • Filled missing values where applicable
  
  </ol>
- <h2>5. Key Metrics Generated</h2>
- <ol>
+ 
 
- • Total Applicants
-
- • Shortlist Rate
-
- • Interview Rate
-
- • Selection Rate
-
- • Rejection Rate
-
- • Average Time to Hire
-
- • Recruiter Performance KPIs:
-
-<ol>
-
-  • No. of applicants handled
-
-  • Conversion rate
-
-  • Selection contribution
-</ol>
- </ol>
-
-<h2>6. Insights & Findings</h2>
+<h2>5. Insights & Findings</h2>
 
 <ol>
 
@@ -132,7 +107,7 @@ The following steps were performed:
   • Delays occur mostly at the Interview Scheduling stage, impacting candidate experience.
 </ol>
 </ol>
-<h2>7. Dashboard Summary</h2>
+<h2>6. Dashboard Summary</h2>
 
 The interactive dashboard contains:
 <ol>
@@ -151,7 +126,7 @@ The interactive dashboard contains:
 </ol>
 The dashboard helps HR managers and team leads monitor the entire process in real time and make data-driven decisions.
 
-<h2>8. Recommendations</h2>
+<h2>7. Recommendations</h2>
 
 1️⃣Optimize recruiter allocation
 
@@ -169,19 +144,7 @@ Review expectations with clients having high rejection rates.
 
 A monthly performance dashboard will improve transparency and accountability.
 
-<h2>Conclusion</h2>
+<h2>8. Conclusion</h2>
 
-The HR analytics dashboard successfully transforms raw HR recruitment data into actionable insights.
-It supports:
-
-<ol>
-
- • Faster decision-making
-
- • Better recruiter performance management
-
- • Transparent hiring process tracking
-
- • Improved hiring funnel efficiency
-
-</ol>
+This HR Analytics project delivers a complete view of the recruitment journey, improves transparency, and supports better decision-making.
+It helps HR teams optimize hiring processes, reduce bottlenecks, and improve recruiter accountability.
