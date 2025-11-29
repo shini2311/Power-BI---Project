@@ -103,6 +103,7 @@ The following steps were performed:
   • The overall selection rate remains moderate, suggesting a balanced but improvable talent quality.
 
 </ol>
+
 2️⃣ <b>Recruiter Productivity</b>
 
 <ol>
@@ -112,6 +113,7 @@ The following steps were performed:
   • Recruiters with higher touchpoints showed better conversion rates.
 
 </ol>
+
 3️⃣ <b>Client-Level Insights</b>
 
 <ol>
