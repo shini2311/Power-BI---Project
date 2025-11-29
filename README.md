@@ -152,3 +152,36 @@ The interactive dashboard contains:
 The dashboard helps HR managers and team leads monitor the entire process in real time and make data-driven decisions.
 
 <h2>8. Recommendations</h2>
+
+1️⃣Optimize recruiter allocation
+
+Distribute applicants evenly among recruiters to avoid overload and delays.
+
+2️⃣ Improve interview follow-ups
+
+Set automated reminders to reduce drop-offs between shortlisting and interviews.
+
+3️⃣ Client screening alignment
+
+Review expectations with clients having high rejection rates.
+
+4️⃣ Track KPIs monthly
+
+A monthly performance dashboard will improve transparency and accountability.
+
+<h2>Conclusion</h2>
+
+The HR analytics dashboard successfully transforms raw HR recruitment data into actionable insights.
+It supports:
+
+<ol>
+
+ • Faster decision-making
+
+ • Better recruiter performance management
+
+ • Transparent hiring process tracking
+
+ • Improved hiring funnel efficiency
+
+</ol>
